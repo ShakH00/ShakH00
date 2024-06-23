@@ -3,6 +3,7 @@
 ```javascript
 function welcome() {
   console.log("Welcome to my GitHub page!");
+  console.log()
 }
 
 function aboutMe() {
@@ -16,8 +17,9 @@ function aboutMe() {
   ];
   const linkedin = "https://www.linkedin.com/in/shakil-hussain-758b42276/";
     
-  console.log(`${name}\n${role}\n${program}`);
+  console.log(`${name}\n${role}\n${program}\n`);
   interests.forEach(interest => console.log(interest));
+  console.log()
   console.log(linkedin);
 }
 
@@ -27,4 +29,20 @@ function main() {
 }
 
 main();
+```
+##
+
+### main.js
+```
+Welcome to my GitHub page!
+
+Shakil Hussain
+Student @ University of Calgary
+Computer Science
+
+Web design
+UI/UX
+CyberSec
+
+https://www.linkedin.com/in/shakil-hussain-758b42276/
 ```
