@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**ShakH00/ShakH00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+function welcome() {
+  console.log("Welcome to my GitHub page!");
+}
 
-Here are some ideas to get you started:
+function aboutMe() {
+  const name = "Shakil Hussain";
+  const role = "Student @ University of Calgary";
+  const program = "Computer Science";
+  const interests = [
+    "Web design", 
+    "UI/UX", 
+    "CyberSec"
+  ];
+  const linkedin = "https://www.linkedin.com/in/shakil-hussain-758b42276/";
+    
+  console.log(`${name}\n${role}\n${program}`);
+  interests.forEach(interest => console.log(interest));
+  console.log(linkedin);
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function main() {
+  welcome();
+  aboutMe();
+}
+
+main();
+```
