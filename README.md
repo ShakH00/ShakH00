@@ -3,7 +3,7 @@
 ```javascript
 function welcome() {
   console.log("Welcome to my GitHub page!");
-  console.log()
+  console.log();
 }
 
 function aboutMe() {
@@ -16,11 +16,13 @@ function aboutMe() {
     "CyberSec"
   ];
   const linkedin = "https://www.linkedin.com/in/shakil-hussain-758b42276/";
+  const devpost = "https://devpost.com/ShakH00"
     
   console.log(`${name}\n${role}\n${program}\n`);
   interests.forEach(interest => console.log(interest));
-  console.log()
+  console.log();
   console.log(linkedin);
+  console.log(devpost);
 }
 
 function main() {
@@ -45,6 +47,7 @@ UI/UX
 CyberSec
 
 https://www.linkedin.com/in/shakil-hussain-758b42276/
+https://devpost.com/ShakH00
 ```
 ## Stats
 
