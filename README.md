@@ -20,8 +20,7 @@ function aboutMe() {
     
   console.log(`${name}\n${role}\n${program}\n`);
   interests.forEach(interest => console.log(interest));
-  console.log();
-  console.log(linkedin);
+  console.log(`\n${linkedin}`);
   console.log(devpost);
 }
 
