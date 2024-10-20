@@ -31,23 +31,7 @@ function main() {
 
 main();
 ```
-##
 
-### main.js
-```
-Welcome to my GitHub page!
-
-Shakil Hussain
-Student @ University of Calgary
-Computer Science
-
-Web design
-UI/UX
-CyberSec
-
-https://www.linkedin.com/in/shakil-hussain-758b42276/
-https://devpost.com/ShakH00
-```
 ## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shakh00&theme=dark&background=000000)](https://git.io/streak-stats)
