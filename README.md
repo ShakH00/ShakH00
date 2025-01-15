@@ -17,11 +17,13 @@ function aboutMe() {
   ];
   const linkedin = "https://www.linkedin.com/in/shakil-hussain-758b42276/";
   const devpost = "https://devpost.com/ShakH00"
+  const website = "https://shakilhussain.ca"
     
   console.log(`${name}\n${role}\n${program}\n`);
   interests.forEach(interest => console.log(interest));
   console.log(`\n${linkedin}`);
   console.log(devpost);
+  console.log(website);
 }
 
 function main() {
