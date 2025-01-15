@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shakh00/)](https://www.linkedin.com/in/shakh00/)
+[![GitHub Shakil Hussain](https://img.shields.io/github/followers/shakh00?label=follow&style=social)](https://github.com/shakh00)
+[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://shakilhussain.ca)
+
 ```javascript
 function welcome() {
   console.log("Welcome to my GitHub page!");
