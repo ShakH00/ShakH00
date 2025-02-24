@@ -64,4 +64,7 @@
     <a href="https://github.com/shakh00" alt="GitHub">
         <img src="https://img.shields.io/badge/github-%23404d59?style=for-the-badge&logo=github"/>
     </a>
+    <a href="https://devpost.com/ShakH00" alt="DevPost">
+        <img src="https://img.shields.io/badge/DevPost-%23404d59?style=for-the-badge"/>
+    </a>
 </p>
